@@ -1,0 +1,7 @@
+{
+    "name": "mass-cc-checker",
+    "description": "Credit Card Validator",
+    "require": {
+        "php": ">=8.1"
+    }
+}
